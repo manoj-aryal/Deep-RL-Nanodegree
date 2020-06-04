@@ -32,6 +32,7 @@ Download the environment from one of the links below. You need only select the e
 Place the file in the DRLND GitHub repository, in the p1_navigation/ folder, and unzip (or decompress) the file.
 
 **Instructions**
+
 Follow the instructions in Navigation.ipynb to get started with training your own agent!
 
 
