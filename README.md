@@ -8,9 +8,9 @@ By: NVIDIA Deep Learning Institute and Unity
 # Projects
 All of the projects use rich simulation environments from Unity ML-Agents.
 
-- The Taxi Problem: Trained a taxi to pick up and drop off passengers.
+- [The Taxi Problem](https://github.com/manoj-aryal/Deep-Reinforcement-Learning-Nanodegree/tree/master/OpenAI%20Gym%20Taxi-v2): Trained a taxi to pick up and drop off passengers.
 
-- Navigation: Trained an agent to collect yellow bananas while avoiding blue bananas.
+- [Navigation](https://github.com/manoj-aryal/Deep-Reinforcement-Learning-Nanodegree/tree/master/Navigation-DeepQN): Trained an agent to collect yellow bananas while avoiding blue bananas.
 
 - Continuous Control: Trained an robotic arm to reach target locations.
 
@@ -18,17 +18,17 @@ All of the projects use rich simulation environments from Unity ML-Agents.
 
 # Concepts Covered:
 
-- Dynamic Programming: Implemented Dynamic Programming algorithms such as Policy Evaluation, Policy Improvement, Policy Iteration, and Value Iteration.
+- [Dynamic Programming](https://github.com/manoj-aryal/Deep-Reinforcement-Learning-Nanodegree/blob/master/Dynamic_Programming.ipynb): Implemented Dynamic Programming algorithms such as Policy Evaluation, Policy Improvement, Policy Iteration, and Value Iteration.
 
-- Monte Carlo: Implemented Monte Carlo methods for prediction and control.
+- [Monte Carlo](https://github.com/manoj-aryal/Deep-Reinforcement-Learning-Nanodegree/blob/master/Monte_Carlo.ipynb): Implemented Monte Carlo methods for prediction and control.
 
-- Temporal-Difference: Implemented Temporal-Difference methods such as Sarsa, Q-Learning, and Expected Sarsa.
+- [Temporal-Difference](https://github.com/manoj-aryal/Deep-Reinforcement-Learning-Nanodegree/blob/master/Temporal_Difference.ipynb): Implemented Temporal-Difference methods such as Sarsa, Q-Learning, and Expected Sarsa.
 
-- Discretization: Learned how to discretize continuous state spaces, and solve the Mountain Car environment.
+- [Discretization](https://github.com/manoj-aryal/Deep-Reinforcement-Learning-Nanodegree/blob/master/Discretization.ipynb): Learned how to discretize continuous state spaces, and solve the Mountain Car environment.
 
-- Tile Coding: Implemented a method for discretizing continuous state spaces that enables better generalization.
+- [Tile Coding](https://github.com/manoj-aryal/Deep-Reinforcement-Learning-Nanodegree/blob/master/Tile_Coding.ipynb): Implemented a method for discretizing continuous state spaces that enables better generalization.
 
-- Deep Q-Network: Explored how to use a **Deep Q-Network (DQN)** to navigate a space vehicle without crashing.
+- [Deep Q-Network](https://github.com/manoj-aryal/Deep-Reinforcement-Learning-Nanodegree/tree/master/Deep%20Q-Network): Explored how to use a **Deep Q-Network (DQN)** to navigate a space vehicle without crashing.
 
 - Robotics: Used a C++ API to train reinforcement learning agents from virtual robotic simulation in 3D.
 
