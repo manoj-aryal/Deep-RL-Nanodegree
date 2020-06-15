@@ -41,11 +41,9 @@ All of the projects use rich simulation environments from Unity ML-Agents.
 - Proximal Policy Optimization: Explored how to use Proximal Policy Optimization (PPO) to solve a classic reinforcement learning task.
 
 - Deep Deterministic Policy Gradients: Explored how to use **Deep Deterministic Policy Gradients (DDPG)** with OpenAI Gym environments.
-     - Pendulum: Used OpenAI Gym's Pendulum environment.
-     - BipedalWalker: Used OpenAI Gym's BipedalWalker environment.
-
+  
 - Finance: Trained an agent to discover optimal trading strategies (Tutorial from Nvidia Deep Learning Institute).
 
-- AlphaZero Tic Tac Toe: Trained your agent to play Tic Tac Toe using **AlphaZero** alorithm
+- AlphaZero Tic Tac Toe: Trained an agent to play Tic Tac Toe using **AlphaZero** alorithm
 
 - Multi-Agents: Trained an agent to solve the Physical Deception problem.
