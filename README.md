@@ -12,7 +12,7 @@ All of the projects use rich simulation environments from Unity ML-Agents.
 
 - [Navigation](https://github.com/manoj-aryal/Deep-Reinforcement-Learning-Nanodegree/tree/master/Navigation-DeepQN): Trained an agent to collect yellow bananas while avoiding blue bananas.
 
-- Continuous Control: Trained an robotic arm to reach target locations.
+- [Continuous Control](https://github.com/manoj-aryal/Deep-RL-Nanodegree/tree/master/Continuous-Control): Trained an robotic arm to reach target locations.
 
 - Collaboration and Competition: Trained a pair of agents to play tennis!
 
@@ -30,17 +30,15 @@ All of the projects use rich simulation environments from Unity ML-Agents.
 
 - [Deep Q-Network](https://github.com/manoj-aryal/Deep-Reinforcement-Learning-Nanodegree/tree/master/Deep%20Q-Network): Explored how to use a **Deep Q-Network (DQN)** to navigate a space vehicle without crashing.
 
-- Robotics: Used a C++ API to train reinforcement learning agents from virtual robotic simulation in 3D.
+- [Hill Climbing](https://github.com/manoj-aryal/Deep-RL-Nanodegree/blob/master/Hill_Climbing.ipynb): Used hill climbing with adaptive noise scaling to balance a pole on a moving cart.
 
-- Hill Climbing: Used hill climbing with adaptive noise scaling to balance a pole on a moving cart.
+- [Cross-Entropy Method](https://github.com/manoj-aryal/Deep-RL-Nanodegree/blob/master/Cross-Entropy-Method.ipynb): Used the cross-entropy method to train a car to navigate a steep hill.
 
-- Cross-Entropy Method: Used the cross-entropy method to train a car to navigate a steep hill.
+- [REINFORCE](https://github.com/manoj-aryal/Deep-RL-Nanodegree/blob/master/REINFORCE.ipynb): Learned how to use Monte Carlo Policy Gradients to solve a classic control task.
 
-- REINFORCE: Learned how to use Monte Carlo Policy Gradients to solve a classic control task.
+- [Proximal Policy Optimization](https://github.com/manoj-aryal/Deep-RL-Nanodegree/blob/master/Pong-REINFORCE-PPO/pong-PPO.ipynb): Explored how to use Proximal Policy Optimization (PPO) to solve a classic reinforcement learning task.
 
-- Proximal Policy Optimization: Explored how to use Proximal Policy Optimization (PPO) to solve a classic reinforcement learning task.
-
-- Deep Deterministic Policy Gradients: Explored how to use **Deep Deterministic Policy Gradients (DDPG)** with OpenAI Gym environments.
+- [Deep Deterministic Policy Gradients](https://github.com/manoj-aryal/Deep-RL-Nanodegree/blob/master/Continuous-Control/Continuous_Control.ipynb): Explored how to use **Deep Deterministic Policy Gradients (DDPG)** with OpenAI Gym environments.
   
 - Finance: Trained an agent to discover optimal trading strategies (Tutorial from Nvidia Deep Learning Institute).
 
