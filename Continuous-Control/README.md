@@ -1,25 +1,25 @@
 
 **Introduction:**
 
-For this project, you will work with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment.
+For this project, [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment was used.
 
 ![Alt Text](https://github.com/manoj-aryal/Deep-RL-Nanodegree/blob/master/Continuous-Control/screenshot.gif)
 
-In this environment, a double-jointed arm can move to target locations. A reward of +0.1 is provided for each step that the agent's hand is in the goal location. Thus, the goal of your agent is to maintain its position at the target location for as many time steps as possible.
+In this environment, a double-jointed arm can move to target locations. A reward of +0.1 is provided for each step that the agent's hand is in the goal location. Thus, the goal of our agent is to maintain its position at the target location for as many time steps as possible.
 
 The observation space consists of 33 variables corresponding to position, rotation, velocity, and angular velocities of the arm. Each action is a vector with four numbers, corresponding to torque applicable to two joints. Every entry in the action vector should be a number between -1 and 1.
 
 **Distributed Training:**
 
-For this project, we will provide you with the Unity environment containing 20 identical agents
+For this project, Unity environment containing 20 identical agents were provided.
 
-And will use algorithms like PPO, A3C, and D4PG that use multiple (non-interacting, parallel) copies of the same agent to distribute the task of gathering experience.
+And algorithms like PPO, A3C, and D4PG that use multiple (non-interacting, parallel) copies of the same agent to distribute the task of gathering experience were explored.
 
 **Solving the environment:**
 
 The agents must get an average score of +30 (over 100 consecutive episodes, and over all agents). Specifically,
 
-After each episode, we add up the rewards that each agent received (without discounting), to get a score for each agent. This yields 20 (potentially different) scores. We then take the average of these 20 scores.
+After each episode, rewards that each agent received (without discounting) were added, to get a score for each agent. This yielded 20 (potentially different) scores. Then we can take the average of these 20 scores.
 This yields an average score for each episode (where the average is over all 20 agents).
 The environment is considered solved, when the average (over 100 episodes) of those average scores is at least +30.
 
