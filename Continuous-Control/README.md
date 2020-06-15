@@ -9,12 +9,13 @@ In this environment, a double-jointed arm can move to target locations. A reward
 
 The observation space consists of 33 variables corresponding to position, rotation, velocity, and angular velocities of the arm. Each action is a vector with four numbers, corresponding to torque applicable to two joints. Every entry in the action vector should be a number between -1 and 1.
 
-**Distributed Training**
+**Distributed Training:**
+
 For this project, we will provide you with the Unity environment containing 20 identical agents
 
 And will use algorithms like PPO, A3C, and D4PG that use multiple (non-interacting, parallel) copies of the same agent to distribute the task of gathering experience.
 
-**Solving the environment**
+**Solving the environment:**
 
 The agents must get an average score of +30 (over 100 consecutive episodes, and over all agents). Specifically,
 
@@ -22,11 +23,11 @@ After each episode, we add up the rewards that each agent received (without disc
 This yields an average score for each episode (where the average is over all 20 agents).
 The environment is considered solved, when the average (over 100 episodes) of those average scores is at least +30.
 
-**Getting Started**
+**Getting Started:**
 
 Download the environment from one of the links below. You need only select the environment that matches your operating system:
 
-**Twenty (20) Agents**
+**Twenty (20) Agents:**
 
 - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Linux.zip)
 - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher.app.zip)
@@ -39,5 +40,6 @@ Download the environment from one of the links below. You need only select the e
 
 Place the file in the DRLND GitHub repository, in the p2_continuous-control/ folder, and unzip (or decompress) the file.
 
-**Instructions**
+**Instructions:**
+
 Follow the instructions in Continuous_Control.ipynb to get started with training your own agent!
