@@ -40,7 +40,7 @@ Download the environment from one of the links below. You need only select the e
 
 Place the file in the DRLND GitHub repository, in the p2_continuous-control/ folder, and unzip (or decompress) the file.
 
-**Dependencies**
+**Dependencies:**
 
 To set up your python environment to run the code in this repository, follow the instructions below.
 
