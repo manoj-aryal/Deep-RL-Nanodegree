@@ -14,7 +14,7 @@ All of the projects use rich simulation environments from Unity ML-Agents.
 
 - [Continuous Control](https://github.com/manoj-aryal/Deep-RL-Nanodegree/tree/master/Continuous-Control): Trained an robotic arm to reach target locations.
 
-- Collaboration and Competition: Trained a pair of agents to play tennis!
+- [Collaboration and Competition](https://github.com/manoj-aryal/Deep-RL-Nanodegree/tree/master/Multiagent-Tennis): Trained a pair of agents to play tennis!
 
 # Concepts Covered:
 
