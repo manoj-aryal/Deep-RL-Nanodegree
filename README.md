@@ -42,6 +42,6 @@ All of the projects use rich simulation environments from Unity ML-Agents.
   
 - Finance: Trained an agent to discover optimal trading strategies (Tutorial from Nvidia Deep Learning Institute).
 
-- AlphaZero Tic Tac Toe: Trained an agent to play Tic Tac Toe using **AlphaZero** alorithm
+- [AlphaZero Tic Tac Toe](https://github.com/manoj-aryal/Deep-RL-Nanodegree/tree/master/TicTacToe-AlphaZero): Trained an agent to play Tic Tac Toe using **AlphaZero** alorithm
 
-- Multi-Agents: Trained an agent to solve the Physical Deception problem.
+- [Multi-Agents](https://github.com/manoj-aryal/Deep-RL-Nanodegree/tree/master/Multiagent-Tennis): Trained an agent to solve the Physical Deception problem.
