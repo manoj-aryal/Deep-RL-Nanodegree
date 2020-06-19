@@ -1,6 +1,8 @@
 # Project 3: Collaboration and Competition
 
 For this project, [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) environment was used.
+
+
 ![Alt Text](https://github.com/manoj-aryal/Deep-RL-Nanodegree/blob/master/Multiagent-Tennis/project.gif)
 
 In this environment, two agents control rackets to bounce a ball over a net. If an agent hits the ball over the net, it receives a reward of +0.1. If an agent lets a ball hit the ground or hits the ball out of bounds, it receives a reward of -0.01. Thus, the goal of each agent is to keep the ball in play.
