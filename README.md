@@ -12,7 +12,7 @@ All of the projects use rich simulation environments from Unity ML-Agents.
 
 - [Navigation](https://github.com/manoj-aryal/Deep-Reinforcement-Learning-Nanodegree/tree/master/Navigation-DeepQN): Trained an agent to collect yellow bananas while avoiding blue bananas.
 
-- [Continuous Control](https://github.com/manoj-aryal/Deep-RL-Nanodegree/tree/master/Continuous-Control): Trained an robotic arm to reach target locations.
+- [Continuous Control](https://github.com/manoj-aryal/Deep-RL-Nanodegree/tree/master/Continuous-Control): Trained a robotic arm to reach target locations.
 
 - [Collaboration and Competition](https://github.com/manoj-aryal/Deep-RL-Nanodegree/tree/master/Multiagent-Tennis): Trained a pair of agents to play tennis!
 
